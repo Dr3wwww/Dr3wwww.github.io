@@ -1,0 +1,8 @@
+# local tooling and preview data (never published)
+.taste-skill/
+shots/
+dev/
+node_modules/
+.env
+.env.*
+*.local.js
